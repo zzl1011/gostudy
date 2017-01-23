@@ -1,7 +1,6 @@
 /**
  * author:zhaozhilu
- * 面向对象
-
+ * 面向对象-方法
  *
  */
 package main
