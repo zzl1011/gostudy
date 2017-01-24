@@ -1,6 +1,6 @@
 /**
  * author ：zhaozhilu
- * package: errors - Errorf
+ * package: Errorf
  *
  */
 package main
